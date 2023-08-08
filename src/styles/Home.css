@@ -1,0 +1,10 @@
+/* Home.css */
+
+.home-container {
+    background: url('../images/covid3.png') center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  

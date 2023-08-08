@@ -1,0 +1,78 @@
+/* Home.css */
+
+.App {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  form {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  button[type="button"] {
+    margin-right: 10px;
+  }
+  
+  button[type="button"]:last-child {
+    margin-right: 0;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+ 
+  
+  
+  li button {
+    background-color: #dc3545;
+    margin-left: 10px;
+  }
+  
+  li button:hover {
+    background-color: #c82333;
+  }
+  

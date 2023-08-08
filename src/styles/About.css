@@ -1,0 +1,26 @@
+/* about.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh; /* Adjust the height of the container as needed */
+  }
+  
+  h3 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #052555; /* Dark blue color for the heading */
+    margin-bottom: 24px; /* Add some spacing at the bottom */
+  }
+  
+  p {
+    text-align: center;
+    font-size: 16px;
+    line-height: 1.6; /* Adjust the line height for better readability */
+    color: #333; /* Dark grey color for the text */
+  }
+  
+  /* Optional: Add more styles for the content or any other elements in the about page */
+  
